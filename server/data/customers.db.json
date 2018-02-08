@@ -1,0 +1,174 @@
+[
+  {
+    "msisdn": "1000155107",
+    "lastbill": "550",
+    "balance": "130",
+    "billdate": "30-10-2017",
+    "unbilled": "300",
+    "billimageurl": "",
+    "billdetails": {
+      "roaming": "0",
+      "nationalcalls": "200",
+      "subscription": "200",
+      "balancetransfer": "100",
+      "mobiledata": "50"
+    },
+    "totalbilldetails": {
+      "1000155107": "150",
+      "1003727036": "150",
+      "1002335700": "200"
+    },
+    "billpermonth" :
+    {
+      "jan":"1100",
+      "feb":"1200",
+      "mar":"1300",
+      "apr":"1400",
+      "may":"1500",
+      "jun":"1600",
+      "jul":"1700",
+      "aug":"1800",
+      "sep":"1900",
+      "oct":"1000",
+      "nov":"1100",
+      "dec":"1200"
+    },
+    "rateplane": "Red Classic",
+    
+    "contact": {
+      "visitorCenter": {
+        "phone": "435-772-3256",
+        "description": "Zion National Park Visitor Center",
+        "address": {
+          "name": "Zion ",
+          "street": "1 Zion ark Blvd.",
+          "city": "Springdale",
+          "state": "UT",
+          "zip": 84767
+        }
+      },
+      "conditions": {
+        "description": "Road and Weather Conditions",
+        "phone": "435-772-3256"
+      }
+    },
+    "neareststore": {
+      "region": "طريق مصر اسكندرية الصحراوي",
+      "name": "داندي مول",
+      "location": "https://www.google.com/maps/place/Carrefour+Dandy+Mega+Mall/@30.06942,31.023365,14z/data=!4m5!3m4!1s0x0:0x9de5e3fb5c0274f6!8m2!3d30.0632199!4d31.0274344?hl=en-US"
+    }
+    
+  },
+  {
+    "msisdn": "1012345678",
+    "lastbill": "1000",
+    "balance": "120",
+    "billdate": "30-11-2017",
+    "unbilled": "300",
+    "billimageurl": "",
+    "billdetails": {
+      "roaming": "100",
+      "nationalcalls": "500",
+      "subscription": "300",
+      "balancetransfer": "50"
+    },
+    "totalbilldetails": {
+      "1000000001": "250",
+      "1000000002": "250",
+      "1000000003": "500"
+    },
+    "billpermonth" :
+    {
+      "jan":"1001",
+      "feb":"1002",
+      "mar":"1003",
+      "apr":"1004",
+      "may":"1005",
+      "jun":"1006",
+      "jul":"1007",
+      "aug":"1008",
+      "sep":"1009",
+      "oct":"1010",
+      "nov":"1011",
+      "dec":"1012"
+    },
+    "rateplane": "Red Elite",
+    
+    "contact": {
+      "visitorCenter": {
+        "phone": "435-772-3256",
+        "description": "Zion National Park Visitor Center",
+        "address": {
+          "name": "Zion ",
+          "street": "1 Zion ark Blvd.",
+          "city": "Springdale",
+          "state": "UT",
+          "zip": 84767
+        }
+      },
+      "conditions": {
+        "description": "Road and Weather Conditions",
+        "phone": "435-772-3256"
+      }
+    },
+    "neareststore": {
+      "region": "المحور المركزي. ميدان جهينة, السادس من اكتوبر, الجيزة",
+      "name": "مول العرب",
+      "location": "https://www.google.com/maps/place/Carrefour+Dandy+Mega+Mall/@30.06942,31.023365,14z/data=!4m5!3m4!1s0x0:0x9de5e3fb5c0274f6!8m2!3d30.0632199!4d31.0274344?hl=en-US"
+    }
+  },
+  {
+    "msisdn": "١٠٠٠١٥٥١٠٧",
+    "balance": "١٢٥",
+    "lastbill": "٥٥٠",
+    "billdate": "٣٠-١١-٢٠١٧",
+    "unbilled": "٣٥٠",
+    "billimageurl": "",
+    "billdetails": {
+      "roaming": "٠",
+      "nationalcalls": "٢٠٠",
+      "subscription": "٢٠٠",
+      "balancetransfer": "١٠٠",
+      "mobiledata": "٥٠"
+    },
+    "totalbilldetails": {
+      "1000155107": "١٥٠",
+      "1003727036": "١٥٠",
+      "1002335700": "٢٠٠"
+    },
+    "billpermonth" :
+    {
+      "jan":"١٠١",
+      "feb":"١٠٢",
+      "mar":"١٠٣",
+      "apr":"١٠٤",
+      "may":"١٠٥",
+      "jun":"١٠٦",
+      "jul":"١٠٧",
+      "aug":"١٠٨",
+      "sep":"١٠٩",
+      "oct":"١١٠",
+      "nov":"١١١",
+      "dec":"١١٢"
+    },
+    "rateplane": "Red Classic",
+    
+    "contact": {
+      "visitorCenter": {
+        "phone": "435-772-3256",
+        "description": "Zion National Park Visitor Center",
+        "address": {
+          "name": "Zion ",
+          "street": "1 Zion ark Blvd.",
+          "city": "Springdale",
+          "state": "UT",
+          "zip": 84767
+        }
+      },
+      "conditions": {
+        "description": "Road and Weather Conditions",
+        "phone": "435-772-3256"
+      }
+    }
+  }  
+]
